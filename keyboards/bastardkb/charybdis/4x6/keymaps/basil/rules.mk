@@ -15,7 +15,7 @@ RGBLIGHT_SUPPORTED = no    # RGB underglow is supported, but not enabled by defa
 RGB_MATRIX_ENABLE = no
 
 # Turn on features we want
-AUTO_SHIFT_ENABLE = yes
+AUTO_SHIFT_ENABLE = no
 TAP_DANCE_ENABLE = yes
 UNICODE_ENABLE = yes
 MOUSEKEY_ENABLE = yes
